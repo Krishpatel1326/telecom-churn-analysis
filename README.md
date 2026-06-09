@@ -27,8 +27,8 @@ for the retention team.
 | Power BI | 2-page interactive dashboard |
 
 ## Dashboard Preview
-![Page 1](outputs/powerbi/22_powerbi_executive.png)
-![Page 2](outputs/powerbi/23_powerbi_churn_drivers.png)
+![Page 1](C:\Users\patel\OneDrive\Documents\Desktop\churn-analysis\outputs)
+![Page 2](C:\Users\patel\OneDrive\Documents\Desktop\churn-analysis\outputs\powerbi)
 
 ## Dataset
 IBM Telco Customer Churn | 7,043 rows | 21 features
