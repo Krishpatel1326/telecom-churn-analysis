@@ -1,32 +1,38 @@
 # Customer Churn Analysis & Retention Strategy
-## Telecom Industry | Python · SQL · Statistics · Power BI
+### MySQL · Python · Statistics · Power BI
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Status-Complete-green)
 
-## Business Problem
-TelecomCo is losing 26.5% of its customer base annually 
-(1,869 of 7,043 customers). This project identifies the 
-root causes of churn and builds a dashboard to help the 
-retention team act before customers leave.
+## Overview
+Analyzed churn behaviour of 7,043 telecom customers to identify
+key drivers of churn and built an interactive Power BI dashboard
+for the retention team.
 
 ## Key Findings
-- Month-to-month contracts churn at 41% vs only 3% for two-year contracts
+- Month-to-month contracts churn at 41% vs 3% for two-year contracts
+- New customers (0-12 months) have highest churn risk at 47%
+- $1.67M in annual revenue at risk from churned customers
 - Chi-square test confirms contract type drives churn (p < 0.0001)
 - Electronic check users churn 8% more than automatic payment users
-- New customers (0-12 months) churn at 47% — highest risk period
-- $1.67M in annual revenue at risk from churned customers
-- Senior citizens churn at 41% vs 24% for non-seniors
 
-## Tools Used
+## Tools
 | Tool | Purpose |
 |------|---------|
-| MySQL | Database, KPI queries, window functions, CTEs |
-| Python | Data cleaning, feature engineering, EDA |
+| MySQL | Database, KPI queries, window functions |
+| Python | Cleaning, EDA, feature engineering |
 | Scipy | Chi-square hypothesis testing |
-| Matplotlib/Seaborn | 12 visualizations |
-| Power BI | 2-page interactive churn dashboard |
+| Matplotlib & Seaborn | 12 visualizations |
+| Power BI | 2-page interactive dashboard |
 
-## Project Structure
+## Dashboard Preview
+![Page 1](outputs/powerbi/22_powerbi_executive.png)
+![Page 2](outputs/powerbi/23_powerbi_churn_drivers.png)
+
+## Dataset
+IBM Telco Customer Churn | 7,043 rows | 21 features
+kaggle.com/datasets/blastchar/telco-customer-churn
+
+## Author
+**Your Name** | LinkedIn: linkedin.com/in/yourprofile
