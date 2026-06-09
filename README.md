@@ -27,12 +27,12 @@ for the retention team.
 | Power BI | 2-page interactive dashboard |
 
 ## Dashboard Preview
-![Page 1](C:\Users\patel\OneDrive\Documents\Desktop\churn-analysis\outputs)
-![Page 2](C:\Users\patel\OneDrive\Documents\Desktop\churn-analysis\outputs\powerbi)
+![Page 1](outputs/powerbi/22_powerbi_executive.png)
+![Page 2](outputs/powerbi/23_powerbi_churn_drivers.png)
 
 ## Dataset
 IBM Telco Customer Churn | 7,043 rows | 21 features
 kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Author
-**Your Name** | LinkedIn: linkedin.com/in/yourprofile
+**Krish Kalpish Patel** | [LinkedIn](https://www.linkedin.com/in/krish-patel-3a1507373)
